@@ -1,0 +1,1 @@
+secrets/prod/credentials.yaml filter=git-crypt diff=git-crypt
